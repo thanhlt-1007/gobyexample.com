@@ -23,7 +23,7 @@ gvm use go1.23.5
 - [x] 8. Arrays
 - [x] 9. Slices
 - [x] 10. Maps
-- [ ] Functions
+- [x] 11. Functions
 - [ ] Multiple Return Values
 - [ ] Variadic Functions
 - [ ] Closures
