@@ -14,7 +14,7 @@ gvm use go1.23.5
 ## Examples
 
 - [x] Hello World
-- [ ] Values
+- [x] Values
 - [ ] Variables
 - [ ] Constants
 - [ ] For
