@@ -22,7 +22,7 @@ gvm use go1.23.5
 - [x] 7. Switch
 - [x] 8. Arrays
 - [x] 9. Slices
-- [ ] Maps
+- [x] 10. Maps
 - [ ] Functions
 - [ ] Multiple Return Values
 - [ ] Variadic Functions
