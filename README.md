@@ -21,7 +21,7 @@ gvm use go1.23.5
 - [x] 6. If/Else
 - [x] 7. Switch
 - [x] 8. Arrays
-- [ ] Slices
+- [x] 9. Slices
 - [ ] Maps
 - [ ] Functions
 - [ ] Multiple Return Values
