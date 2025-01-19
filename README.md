@@ -24,7 +24,7 @@ gvm use go1.23.5
 - [x] 9. Slices
 - [x] 10. Maps
 - [x] 11. Functions
-- [ ] Multiple Return Values
+- [x] 12. Multiple Return Values
 - [ ] Variadic Functions
 - [ ] Closures
 - [ ] Recursion
