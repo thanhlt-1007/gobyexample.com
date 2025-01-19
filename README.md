@@ -13,14 +13,14 @@ gvm use go1.23.5
 
 ## Examples
 
-- [x] Hello World
-- [x] Values
-- [x] Variables
-- [x] Constants
-- [x] For
-- [x] If/Else
-- [x] Switch
-- [x] Arrays
+- [x] 1. Hello World
+- [x] 2. Values
+- [x] 3. Variables
+- [x] 4. Constants
+- [x] 5. For
+- [x] 6. If/Else
+- [x] 7. Switch
+- [x] 8. Arrays
 - [ ] Slices
 - [ ] Maps
 - [ ] Functions
