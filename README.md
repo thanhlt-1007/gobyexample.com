@@ -15,7 +15,7 @@ gvm use go1.23.5
 
 - [x] Hello World
 - [x] Values
-- [ ] Variables
+- [x] Variables
 - [ ] Constants
 - [ ] For
 - [ ] If/Else
