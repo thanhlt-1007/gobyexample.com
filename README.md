@@ -20,7 +20,7 @@ gvm use go1.23.5
 - [x] For
 - [x] If/Else
 - [x] Switch
-- [ ] Arrays
+- [x] Arrays
 - [ ] Slices
 - [ ] Maps
 - [ ] Functions
