@@ -25,7 +25,7 @@ gvm use go1.23.5
 - [x] 10. Maps
 - [x] 11. Functions
 - [x] 12. Multiple Return Values
-- [ ] Variadic Functions
+- [x] Variadic Functions
 - [ ] Closures
 - [ ] Recursion
 - [ ] Range over Built-in Types
