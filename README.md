@@ -31,7 +31,7 @@ gvm use go1.23.5
 - [x] 16. Range over Built-in Types
 - [x] 17. Pointers
 - [x] 18. Strings and Runes
-- [ ] Structs
+- [x] 19. Structs
 - [ ] Methods
 - [ ] Interfaces
 - [ ] Enums
