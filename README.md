@@ -32,7 +32,7 @@ gvm use go1.23.5
 - [x] 17. Pointers
 - [x] 18. Strings and Runes
 - [x] 19. Structs
-- [ ] Methods
+- [x] 20. Methods
 - [ ] Interfaces
 - [ ] Enums
 - [ ] Struct Embedding
