@@ -28,7 +28,7 @@ gvm use go1.23.5
 - [x] 13. Variadic Functions
 - [x] 14. Closures
 - [x] 15. Recursion
-- [ ] Range over Built-in Types
+- [x] Range over Built-in Types
 - [ ] Pointers
 - [ ] Strings and Runes
 - [ ] Structs
