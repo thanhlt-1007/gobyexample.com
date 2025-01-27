@@ -73,7 +73,7 @@ gvm use go1.23.5
 - [ ] 58. Epoch
 - [x] 59. Time Formatting / Parsing
 - [x] 60. Random Numbers
-- [ ] Number Parsing
+- [x] 61. Number Parsing
 - [ ] URL Parsing
 - [ ] SHA256 Hashes
 - [ ] Base64 Encoding
