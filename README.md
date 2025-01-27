@@ -62,7 +62,7 @@ gvm use go1.23.5
 - [x] 47. Sorting by Functions
 - [x] 48. Panic
 - [x] 49. Defer
-- [ ] Recover
+- [x] 50. Recover
 - [ ] String Functions
 - [ ] String Formatting
 - [ ] Text Templates
