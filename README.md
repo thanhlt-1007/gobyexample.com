@@ -33,7 +33,7 @@ gvm use go1.23.5
 - [x] 18. Strings and Runes
 - [x] 19. Structs
 - [x] 20. Methods
-- [ ] Interfaces
+- [x] 21. Interfaces
 - [ ] Enums
 - [ ] Struct Embedding
 - [ ] Generics
