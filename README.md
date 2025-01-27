@@ -64,7 +64,7 @@ gvm use go1.23.5
 - [x] 49. Defer
 - [x] 50. Recover
 - [x] 51. String Functions
-- [ ] String Formatting
+- [x] 52. String Formatting
 - [ ] Text Templates
 - [ ] Regular Expressions
 - [ ] JSON
