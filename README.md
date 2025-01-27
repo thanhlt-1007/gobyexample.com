@@ -65,8 +65,8 @@ gvm use go1.23.5
 - [x] 50. Recover
 - [x] 51. String Functions
 - [x] 52. String Formatting
-- [ ] Text Templates
-- [ ] Regular Expressions
+- [ ] 53. Text Templates
+- [x] 54. Regular Expressions
 - [ ] JSON
 - [ ] XML
 - [ ] Time
