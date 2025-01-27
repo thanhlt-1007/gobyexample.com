@@ -35,10 +35,10 @@ gvm use go1.23.5
 - [x] 20. Methods
 - [x] 21. Interfaces
 - [x] 22. Enums
-- [x] Struct Embedding
-- [ ] Generics
-- [ ] Range over Iterators
-- [ ] Errors
+- [x] 23. Struct Embedding
+- [ ] 24. Generics
+- [ ] 25. Range over Iterators
+- [x] 26. Errors
 - [ ] Custom Errors
 - [ ] Goroutines
 - [ ] Channels
