@@ -40,25 +40,25 @@ gvm use go1.23.5
 - [ ] 25. Range over Iterators
 - [x] 26. Errors
 - [x] 27. Custom Errors
-- [ ] Goroutines
-- [ ] Channels
-- [ ] Channel Buffering
-- [ ] Channel Synchronization
-- [ ] Channel Directions
-- [ ] Select
-- [ ] Timeouts
-- [ ] Non-Blocking Channel Operations
-- [ ] Closing Channels
-- [ ] Range over Channels
-- [ ] Timers
-- [ ] Tickers
-- [ ] Worker Pools
-- [ ] WaitGroups
-- [ ] Rate Limiting
-- [ ] Atomic Counters
-- [ ] Mutexes
-- [ ] Stateful Goroutines
-- [ ] Sorting
+- [ ] 28. Goroutines
+- [ ] 29. Channels
+- [ ] 30. Channel Buffering
+- [ ] 31. Channel Synchronization
+- [ ] 32. Channel Directions
+- [ ] 33. Select
+- [ ] 34. Timeouts
+- [ ] 35. Non-Blocking Channel Operations
+- [ ] 36. Closing Channels
+- [ ] 37. Range over Channels
+- [ ] 38. Timers
+- [ ] 39. Tickers
+- [ ] 40. Worker Pools
+- [ ] 41. WaitGroups
+- [ ] 42. Rate Limiting
+- [ ] 43. Atomic Counters
+- [ ] 44. Mutexes
+- [ ] 45. Stateful Goroutines
+- [x] 46. Sorting
 - [ ] Sorting by Functions
 - [ ] Panic
 - [ ] Defer
