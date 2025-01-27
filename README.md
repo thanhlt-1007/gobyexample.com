@@ -70,8 +70,8 @@ gvm use go1.23.5
 - [ ] 55. JSON
 - [ ] 56. XML
 - [x] 57. Time
-- [ ] Epoch
-- [ ] Time Formatting / Parsing
+- [ ] 58. Epoch
+- [ ] 59. Time Formatting / Parsing
 - [ ] Random Numbers
 - [ ] Number Parsing
 - [ ] URL Parsing
