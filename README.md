@@ -61,7 +61,7 @@ gvm use go1.23.5
 - [x] 46. Sorting
 - [x] 47. Sorting by Functions
 - [x] 48. Panic
-- [ ] Defer
+- [x] 49. Defer
 - [ ] Recover
 - [ ] String Functions
 - [ ] String Formatting
