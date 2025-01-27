@@ -74,7 +74,7 @@ gvm use go1.23.5
 - [x] 59. Time Formatting / Parsing
 - [x] 60. Random Numbers
 - [x] 61. Number Parsing
-- [ ] URL Parsing
+- [x] 62. URL Parsing
 - [ ] SHA256 Hashes
 - [ ] Base64 Encoding
 - [ ] Reading Files
