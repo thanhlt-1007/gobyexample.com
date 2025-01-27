@@ -39,7 +39,7 @@ gvm use go1.23.5
 - [ ] 24. Generics
 - [ ] 25. Range over Iterators
 - [x] 26. Errors
-- [ ] Custom Errors
+- [x] 27. Custom Errors
 - [ ] Goroutines
 - [ ] Channels
 - [ ] Channel Buffering
