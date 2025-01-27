@@ -59,8 +59,8 @@ gvm use go1.23.5
 - [ ] 44. Mutexes
 - [ ] 45. Stateful Goroutines
 - [x] 46. Sorting
-- [x] Sorting by Functions
-- [ ] Panic
+- [x] 47. Sorting by Functions
+- [x] 48. Panic
 - [ ] Defer
 - [ ] Recover
 - [ ] String Functions
