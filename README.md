@@ -35,7 +35,7 @@ gvm use go1.23.5
 - [x] 20. Methods
 - [x] 21. Interfaces
 - [x] 22. Enums
-- [ ] Struct Embedding
+- [x] Struct Embedding
 - [ ] Generics
 - [ ] Range over Iterators
 - [ ] Errors
