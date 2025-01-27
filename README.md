@@ -67,9 +67,9 @@ gvm use go1.23.5
 - [x] 52. String Formatting
 - [ ] 53. Text Templates
 - [x] 54. Regular Expressions
-- [ ] JSON
-- [ ] XML
-- [ ] Time
+- [ ] 55. JSON
+- [ ] 56. XML
+- [x] 57. Time
 - [ ] Epoch
 - [ ] Time Formatting / Parsing
 - [ ] Random Numbers
