@@ -71,8 +71,8 @@ gvm use go1.23.5
 - [ ] 56. XML
 - [x] 57. Time
 - [ ] 58. Epoch
-- [ ] 59. Time Formatting / Parsing
-- [ ] Random Numbers
+- [x] 59. Time Formatting / Parsing
+- [x] 60. Random Numbers
 - [ ] Number Parsing
 - [ ] URL Parsing
 - [ ] SHA256 Hashes
